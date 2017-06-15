@@ -1,4 +1,4 @@
-# Análisis Léxico y Sintáxico - TRABAJO PRÁCTICO Nº 2 DE COMPILADORES
+# Análisis Léxico- TRABAJO PRÁCTICO Nº 1 DE COMPILADORES
 JORGE DANIEL LEZCANO CI 4696750 - JUNIO 2017
 LEXER: Programa hecho en lenguaje C, el cual lee una fuente hecho en Json "fuente.txt",
 detecta los tokens que hay por línea y va verificando a qué componente léxico pertenece cada token.
